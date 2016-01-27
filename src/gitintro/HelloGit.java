@@ -10,5 +10,5 @@ package gitintro;
  * @author Darlington-PC
  */
 public class HelloGit {
-    
+    private String you;
 }
