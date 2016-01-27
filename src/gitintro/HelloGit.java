@@ -11,4 +11,7 @@ package gitintro;
  */
 public class HelloGit {
     private String you;
+    public void print(){
+        System.out.println("Go Go Git-It");
+    }
 }
